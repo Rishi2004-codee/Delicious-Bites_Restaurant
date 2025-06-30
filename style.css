@@ -45,7 +45,7 @@ nav .nav-links a:hover {
 
 /* Header with Background Image */
 header {
-  background-image: url('back ground.jpg');
+  background-image: url('background.jpg');
   background-size: cover;
   background-position: center;
   height: 300px;
